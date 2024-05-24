@@ -16,7 +16,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/divita-varshney-343b91236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divita-varshney-343b91236/" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/profile/divitavarshney71" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/divitavarshney71" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Divita_varshney009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Divita_varshney009/" height="30" width="40" /></a>
 </p>
